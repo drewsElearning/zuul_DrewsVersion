@@ -87,3 +87,4 @@ The workflow is triggered by following these steps:
 3. Click `Select tag`, then `Create new tag` (ex. `vX.Y.Z)
 4. Select `Generate release notes` and Click `Publish release`
 5. Approve the new release in the [Actions](https://github.com/Netflix/zuul/actions) tab
+6. Submit pull request. 
